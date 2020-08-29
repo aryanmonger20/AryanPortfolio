@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AryanPortfolio/static/css/main.2c561fe4.chunk.css",
-    "main.js": "/AryanPortfolio/static/js/main.48d98bd1.chunk.js",
-    "main.js.map": "/AryanPortfolio/static/js/main.48d98bd1.chunk.js.map",
+    "main.js": "/AryanPortfolio/static/js/main.5016e98d.chunk.js",
+    "main.js.map": "/AryanPortfolio/static/js/main.5016e98d.chunk.js.map",
     "runtime-main.js": "/AryanPortfolio/static/js/runtime-main.9baaf95c.js",
     "runtime-main.js.map": "/AryanPortfolio/static/js/runtime-main.9baaf95c.js.map",
     "static/css/2.26db4991.chunk.css": "/AryanPortfolio/static/css/2.26db4991.chunk.css",
     "static/js/2.aa37a55e.chunk.js": "/AryanPortfolio/static/js/2.aa37a55e.chunk.js",
     "static/js/2.aa37a55e.chunk.js.map": "/AryanPortfolio/static/js/2.aa37a55e.chunk.js.map",
     "index.html": "/AryanPortfolio/index.html",
-    "precache-manifest.92370c9d0be39afcbd2f49f32d2287f8.js": "/AryanPortfolio/precache-manifest.92370c9d0be39afcbd2f49f32d2287f8.js",
+    "precache-manifest.148c3844bf1e135bf143ce7c2c705936.js": "/AryanPortfolio/precache-manifest.148c3844bf1e135bf143ce7c2c705936.js",
     "service-worker.js": "/AryanPortfolio/service-worker.js",
     "static/css/2.26db4991.chunk.css.map": "/AryanPortfolio/static/css/2.26db4991.chunk.css.map",
     "static/css/main.2c561fe4.chunk.css.map": "/AryanPortfolio/static/css/main.2c561fe4.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.26db4991.chunk.css",
     "static/js/2.aa37a55e.chunk.js",
     "static/css/main.2c561fe4.chunk.css",
-    "static/js/main.48d98bd1.chunk.js"
+    "static/js/main.5016e98d.chunk.js"
   ]
 }
