@@ -1,0 +1,181 @@
+background{
+  background-image: url(./images/image-80.png);
+}
+
+.App {
+  
+ 
+  color:#4f5e59;
+  font-size: 23px;
+  margin-left: 50px;
+margin-right: 40px; 
+padding-bottom: 30px;
+margin-top: 20px;
+padding-top: 20px;
+
+
+  
+  background-size: cover;
+ 
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  position: fixed;
+  height: 50px;
+  background-color: red;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.x-navbar {
+  background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F351140102187801223%2F&psig=AOvVaw2-Ok8myWZTErbLVIzow3Wb&ust=1597841040935000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODfw-_jpOsCFQAAAAAdAAAAABAI) repeat-x center center;
+  padding-bottom: 0px;
+  }
+
+  
+  .jumbotron {
+    background-image: url(./images/ijkj.jpg);
+    background-size: cover;
+    margin: 0;
+    height: 100%;}
+    
+    .jt {
+      background-image: url(./images/abstjpg.jpg); 
+       background-size: cover; 
+      margin:0;
+     margin-right: 2px;
+     text-justify: center;
+      
+     }
+      
+    .bggradient{
+      background-image: url(./images/abstract-paper-hexagon-white-background_51543-7.jpg);
+background-size: cover;
+height: 100%;
+
+    }
+.pad{
+  font-size: 3em;
+  font-style: initial;
+ 
+  padding-top:100px;
+  margin-left: 30%;
+ 
+}
+.p2{
+  font-size: 2.5em;
+  font-style: initial;
+ 
+  padding-top:10px;
+  margin-left: 15%;
+  
+ 
+}
+
+    .mypic{
+      border-radius: 1007em;
+    }
+
+    .wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 70vh;
+      background-image: url(./images/abstract-paper-hexagon-white-background_51543-7.jpg);
+  }
+  
+  .profile {
+      position: relative;
+      width: 300px;
+      height: 350px;
+      background: url("./images/mypic.jpeg");
+      background-size: cover;
+      cursor: pointer;
+      border: 12px;
+      border-top-right-radius: 35px !important;
+      border-radius: 6px
+  }
+  
+  .overlay {
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 12px;
+      cursor: pointer;
+      opacity: 0;
+      transition: all 1s;
+      border-top-right-radius: 35px !important;
+      border-radius: 6px
+  }
+  
+  .profile:hover .overlay {
+      opacity: 1
+  }
+  
+  .social-icons {
+      display: flex;
+      list-style: none;
+      bottom: 10px;
+      position: absolute;
+      text-align: center;
+      justify-content: center;
+      left: 22px
+  }
+  
+  .social-icons li {
+      width: 25px;
+      height: 25px;
+      border: 1px solid #eee;
+      padding: 20px;
+      margin-right: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+      border-radius: 5px;
+      transition: all 1s
+  }
+  
+  .social-icons li:hover {
+      background: #fff;
+      color: #000
+  }
+  
+  .overlay .about {
+      position: relative;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      top: 40%;
+      color: #fff;
+      flex: column
+  }
+  .face{
+    background-image: url("https://img.icons8.com/cute-clipart/10/000000/facebook-new.png")
+  }
+  
+  .back{
+
+    background-image: url(./images/abstract-paper-hexagon-white-background_51543-7.jpg);
+  }
