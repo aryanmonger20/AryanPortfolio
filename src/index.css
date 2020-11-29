@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.g-card{
+  margin :20px
+}
+.g-card-image {
+  border-radius :10px;
+  width : 240px;
+  height:360px;
+  box-shadow: 0px 0px 3px 1px #ccc;
+
+}
+.g-card-info{
+  margin-top: 10px;
+  min-height : 100px;
+}
+.g-card-title{
+  font-size: 30px;
+  padding-left: 0px;
+  margin: 0px;
+}
+.g-card-sub-title{
+  font-size: 16px;
+  padding-left: 14px;
+  margin: 0px;
+}
+.imgk{
+  width: 33%;
+  height: auto;
+  border-radius: 40px;
+  padding-right: 10px;
+ align-self: center;
+  
+
+}
+
+
+.bg-black {
+  background: #000
+}
+
+.skill-block {
+  width: 30%
+}
+
+@media (min-width: 991px) and (max-width:1200px) {
+  .skill-block {
+      padding: 32px !important
+  }
+}
+
+@media (min-width: 1200px) {
+  .skill-block {
+      padding: 56px !important
+  }
+}
+
+body {
+  background-image: url(./images/abstract-paper-hexagon-white-background_51543-7.jpg);
+}
+
+.abth{
+font-size: 80px;
+text-align: center;
+padding-bottom: 30px;
+padding-top: 20px;
+}
+
